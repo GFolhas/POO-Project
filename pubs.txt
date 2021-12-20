@@ -1,0 +1,14 @@
+B#Bernardete Ribeiro#Engenharia da Programação e dos Processos Algorítmicos#algorítmos,programação#1998#5500#Processos Algorítmicos e as suas aplicações no mundo#VicentImagem#978-3-16-148410-0
+BC#Luis Paquete#Hanbook of Scan Statistics#Spacial Cluster Detection#2017#4000#Deteções de clusters através de abordagens dinâmicas de programação e a sua utilidade#Springer#93-12504#Spatial cluster detection through a dynamic programming approach#1#13
+CA#Penousal Machado, Rui Pedro Paiva#Let's Figure This Out: A Roadmap for Visual Conceptual Blending#blending, visual conceptual blending#2020#7550#Mapeamento de concepções visuais#Eleventh International Conference on Computational Creativity#11/06/2020#Coimbra, Portugal
+CAB#Jorge Bernardino#Computation offloading in Edge Computing environments using Artificial Intelligence techniques#AI,offloading, edge computing#2020#2670#not found#Springer#46-329-91#Engineering Applications of Artificial Intelligence#95
+MA#Nuno Lourenço, Rute Pino#Evolving Visual Artefacts based on Consumption Patterns#Consumption Patterns#2020#700#Evolução de artefactos com base nos padrões de consumo da sociedade#International Journal of Arts and Technology#2020#283
+CA#Licínio Roque# Entertainment Computing#entertainment, learning#2018#750#A diversão da computação#ICEC 2018#19/11/2018#Mumbai, India
+B#Paulo Simões, Tiago Cruz# Redes de ordenadores – Capa de Transporte#redes, ordenadores#2016#9700#- - -#Amazon (ebook)#83-12-159
+MA#Tiago Cruz#A Security Monitoring Framework for Mobile Devices#mobile devices, security, data leak#2020#3450# Electronics related#ISSN#2020#2079
+CA#Ana Boavida#Computer Science Learning 101#learning, computer#2016#2690#Aprende Informática#ICEC 2016#22/07/2016#Porto, Portugal
+MA#Paulo Rupino da Cunha#Cybersegurança e prevenção de ataques cybernéticos#hackers, cybersecurity#2005#4050#Hacker Prevention Measures#Amazon (ebook)#2005#1460
+BC#Marilia Curado#Programação Orientada a Objetos#POO#2019#7090#Programação orientada a objetos#Springer#49-98432#Técnicas de Programação#4#25
+CAB#Jorge Henriques#AI Development Techniques#AI,dev#2015#3990#not found#Springer#11-3-78#Techniques and Applications of Artificial Intelligence#106
+CA#Luis Paquete#Introdução a Programação e Resolução de Problemas#python learning, programming#2017#1000#Aprendizagem de Python com Problemas#ICEC 2017#07/03/2017#Tokyo, Japan
+CA#Licínio Roque#Avanços Tecnológicos aplicados na indústria moderna#inovaçao, indústria#2010#1250#A inovação nas diversas indústrias, com as marcas tecnológicas#ICEC 2010#07/01/2010#London, England

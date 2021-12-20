@@ -1,0 +1,36 @@
+EM#Bernardete Ribeiro#bribeiro@dei.uc.pt#AC#12#935676823
+EM#Paulo de Carvalho#carvalho@dei.uc.pt#AC#15#926476261
+EM#Jorge Henriques#jh@dei.uc.pt#AC#8#916548266
+EM#Luis Paquete#paquete@dei.uc.pt#AC#3#972519930
+EM#Maria da Graça Cristo dos Santos Lopes Ruano#mruano@dei.uc.pt#AC#1#936467890
+S#Adriana Leal#aleal@dei.uc.pt#AC#lookAfterRisk - Dynamic risk assessment using home-mobile technologies for the management of myocardial infarction patients#04/03/2021#Paulo de Carvalho
+S#Bruno Miguel Machado Rocha#bmrocha@dei.uc.pt#AC#WELMO: Wearable Electronics for Effective Lung Monitoring#16/07/2021#Paulo de Carvalho
+EM#Penousal Machado#machado@dei.uc.pt#CMS#2#937592005
+EM#Rui Pedro Paiva#ruipedro@dei.uc.pt#CMS#14#927563913
+EM#Ana Boavida#aboavida@dei.uc.pt#CMS#7#926544120
+S#Ana Rodrigues#anatr@dei.uc.pt#CMS#Objetos Musicais#20/05/2021#Ana Boavida
+S#Daniel Filipe Santos Lopes#dfl@dei.uc.pt#CMS#Arquivo Digital do Centro Histórico de Coimbra#17/02/2021#Penousal Machado
+S#Jéssica Araújo Parente#jparente@dei.uc.pt#CMS#Data-driven Logotype Design#09/04/2021#Penousal Machado
+EM#Ernesto Costa#ernesto@dei.uc.pt#ECOS#1#965825658
+EM#Nuno Lourenço#naml@dei.uc.pt#ECOS#4#979564823
+S#João Pedro Gonçalves Teixeira de Macedo#jmacedo@dei.uc.pt#ECOS#Genetic Programming#04/08/2022#Ernesto Costa
+S#Rute Pino#pino.rute@gmail.com#ECOS#Sub-chronic DOX Treatments#09/10/2021#Nuno Lourenço
+S#João Miguel Brás Simões#jbsimoes@student.dei.uc.pt#ECOS#Aircraft Evacuation#23/02/2021#Nuno Lourenço
+EM#Licínio Roque#lir@dei.uc.pt#IS#16#946882237
+EM#Paulo Rupino da Cunha#rupino@dei.uc.pt#IS#6#975149682
+S#Luís Lucas Pereira#lpereira@dei.uc.pt#IS#Learning Game for a Science Museum#17/12/2021#Licínio Roque
+EM#Paulo Simões#psimoes@dei.uc.pt#LCT#5#926458235
+EM#Tiago Cruz#tjcruz@dei.uc.pt#LCT#19#984536224
+EM#Marilia Curado#marilia@dei.uc.pt#LCT#6#911685576
+S#Karima Velasquez#kcastro@dei.uc.pt#LCT#Simulation Modelling#21/11/2021#Marilia Curado
+EM#Henrique Madeira#henrique@dei.uc.pt#SSE#22#984568991
+EM#Jorge Bernardino#jorge@isec.pt#SSE#27#912256943
+S#José Alexandre D'Abruzzo Pereira#josep@dei.uc.pt#SSE#METRICS: Monitoring and Measuring the Trustworthiness of Critical Cloud Systems#01/03/2021#Henrique Madeira
+S#Nádia Patrícia da Silva Medeiros#nsilvamed@gmail.com#SSE#Software Metrics as Indicators of Security Vulnerabilities#20/07/2021#Henrique Madeira
+
+
+
+
+
+
+
